@@ -1,0 +1,2 @@
+curl -F "url=https://currencycheckerbot-eitqpahimf.now.sh/hook"  https://api.telegram.org/bot367819622:AAGvytCTS5Kb_6SezFBnmvITnAck08XCw2w/setWebhook
+https://api.telegram.org/bot367819622:AAGvytCTS5Kb_6SezFBnmvITnAck08XCw2w/getUpdates
